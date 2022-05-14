@@ -1,0 +1,20 @@
+[
+	{
+		"type": "space",
+		"height": 15
+	},
+	
+	{
+		"type": "text",
+		"text": "Welcome!",
+		"font_size": "20",
+		"font_weight": "bold",
+		"alignment": "center",
+		"color": "black",
+	},
+		{
+		"type": "space",
+		"height": 30
+	},
+
+]
